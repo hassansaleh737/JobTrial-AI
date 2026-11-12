@@ -1,4 +1,4 @@
-# JobTrial AI — Practical Work Simulations (v6)
+# JobTrial AI — Practical Work Simulations 
 
 **Try the work, not just the interview.** JobTrial AI turns a job description into a role-aligned, hands-on work trial. Learners edit starter project files, run automated checks, and save evidence-based results. Designed as a student hackathon prototype.
 
