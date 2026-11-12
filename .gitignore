@@ -1,0 +1,25 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node.js
+node_modules/
+frontend/dist/
+dist/
+
+# Local data
+backend/data/*.sqlite3
+backend/data/*.db
+
+# Temporary files
+*.log
+.DS_Store
